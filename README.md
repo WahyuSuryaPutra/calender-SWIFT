@@ -1,5 +1,5 @@
 # calender-SWIFT
-Welcome to Swift Tic Tac Toe, a simple yet engaging implementation of the classic Tic Tac Toe game built using Swift. This project serves as a fun and educational example of iOS development with Swift, showcasing fundamental concepts such as UI design, user interactions, and game logic.
+Welcome to Swift Calendar, a versatile and intuitive calendar app developed with Swift. This project is designed to provide users with a seamless and feature-rich experience for managing their schedules, events, and tasks on iOS devices.
 
 ## Acknowledgements
 
